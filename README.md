@@ -1,11 +1,11 @@
 # CIKM_Tutortial
 
-###Title: Enterprise Knowledge Graph From Specific Business Task to Enterprise Knowledge Management [pdf](CIKM_tutorial.pdf)
+### Title: Enterprise Knowledge Graph From Specific Business Task to Enterprise Knowledge Management [pdf](CIKM_tutorial.pdf)
 
-###Abstract
+### Abstract
 Data driven Knowledge Graph is rapidly adapted by different societies. Many open domain and specific domain knowledge graphs have been constructed, and many industries have benefited from knowledge graph. Currently, enterprise related knowledge graph is classified as specific domain, but the applications span from solving a narrow specific problem to Enterprise Knowledge Management system. With the digital transform of traditional industry, Enterprise knowledge becomes more and more complicated, it involves knowledge from common domain, multiple specific domains, and corporate-specific in general. This tutorial provides an overview of current Enterprise Knowledge Graph(EKG). It distinguishes the EKG from specific domain according to the knowledge it covers, and provides the examples to illustrate the difference between EKG and specific domain KG. The tutorial further summarizes EKG into three types: Specific Business Task Enterprise KG, Specific Business Unit Enterprise KG and Cross Business Unit Enterprise KG, and illustrates the characteristics, steps, challenges, and future research in constructing and consuming of each of these three types of EKG.
 
-###People
+### People
 **Dr. Rong Duan** currently is Chief Data Scientist of Corporate Data Management Department, Huawei Technologies Co.,Ltd. She is guiding a group to build various AI applications in supporting internal users. Multiple enterprise knowledge graphs have been constructed under her supervision. Before joined Huawei, Rong was principal inventive scientist at AT&T Labs, big data research and adjunct professor at Stevens Institute of Technology. Has been working in AT&T Labs for more than 20 years, Rong has extensive experience on statistical learning, data mining, predictive modeling and data analysis for business data. Rong received her PhD and MSc in computer engineering and computer science respectively from Stevens Institute of Technology, US. Her research interests include data mining, statistical learning theory and methods, Spatial-temporal Risk Assessment and management , Data Integration and Data Quality Assessment. Rong was former Chair for the Data Mining Section of INFORMS, and Data Mining cluster co-chair for INFORMS International Beijing. Rong also served as a program co-chair for the 1st and the 2nd International Symposium on System Informatics and Engineering,Panelist for ICDM, tutor for DSAA, DASFAA, INFORMS, etc.
 
 
